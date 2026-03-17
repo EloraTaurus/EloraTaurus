@@ -1,3 +1,5 @@
+![http://url/to/img.png](https://github.com/EloraTaurus/EloraTaurus/blob/main/Elora-Banner.png)
+
 # Elora Taurus
 The Elora Taurus Project is an independent AI governance control-plane and runtime architecture initiative built around a security-first approach. It explores how AI systems can be structured when inference is treated as proposal and authorization is enforced at a deterministic commit boundary, with governance and replay implemented as explicit system functions rather than afterthoughts.
 
